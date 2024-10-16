@@ -1,6 +1,6 @@
-#Loan Status Prediction Using Machine Learning
+# Loan Status Prediction Using Machine Learning
 
-##Project Overview
+## Project Overview
 This project aims to predict the loan status of applicants using machine learning techniques. By analyzing various features such as credit score, income, and employment status, we can determine the likelihood of loan approval. This predictive model can help financial institutions streamline their loan approval process.
 
 ## Technologies Used
